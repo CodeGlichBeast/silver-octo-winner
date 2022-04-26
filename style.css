@@ -1,0 +1,15 @@
+#googlelens{
+    width:500px;
+    height:300px;
+}
+#MobileNet{
+    font-size: 30px;
+}
+#case{
+    background-color: gray;
+}
+#google-len, #mobile-net, #result{
+    background-color: white;
+    border-radius: 50px;
+    width:150px;
+}
